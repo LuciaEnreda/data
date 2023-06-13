@@ -66,4 +66,4 @@ graph_title: Percentage (%) of students who receive scholarships or aid for low-
 graph_type: line
 
 #required to show. Options: complete, notstarted, notapplicable
-reporting_status: notstarted
+reporting_status: complete
